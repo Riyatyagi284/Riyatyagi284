@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently working on **React(Advanced), Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at [https://riya-tyagi-portfolio.netlify.app](https://riya-tyagi-portfolio.netlify.app)
-
 - 💬 Ask me about **HTML,CSS,JS,REACT,TAILWIND CSS, Bootstrap, Expressjs, Nodejs, Mongodb, ReduxToolkit, TypeScript**
 
 - 📫 How to reach me **riya.tyagi.dev@gmail.com**
